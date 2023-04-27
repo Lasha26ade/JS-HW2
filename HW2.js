@@ -26,6 +26,29 @@ console.log(z)
 Comparison operators
 */
 
+let t = 0.1;
+let y = 0.2;
+
+console.log(t + y);
+
+let c = true;
+let v = "true";
+console.log( c === v);
+  
+
+let b = 1;
+let n = 7;
+console.log(b + n !=8);
+
+let q = 10**5;
+let w = 9**6;
+console.log(q > w);
+
+let e = 17/6;
+let r = 4;
+
+console.log(e <= r);
+
 
 
 
